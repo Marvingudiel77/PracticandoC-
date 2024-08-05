@@ -1,0 +1,7 @@
+C:\Users\TF049\Documents\clases cursos C#\RegresoPractica\RegresoPractica\bin\Debug\RegresoPractica.exe.config
+C:\Users\TF049\Documents\clases cursos C#\RegresoPractica\RegresoPractica\bin\Debug\RegresoPractica.exe
+C:\Users\TF049\Documents\clases cursos C#\RegresoPractica\RegresoPractica\bin\Debug\RegresoPractica.pdb
+C:\Users\TF049\Documents\clases cursos C#\RegresoPractica\RegresoPractica\obj\Debug\RegresoPractica.csproj.AssemblyReference.cache
+C:\Users\TF049\Documents\clases cursos C#\RegresoPractica\RegresoPractica\obj\Debug\RegresoPractica.csproj.CoreCompileInputs.cache
+C:\Users\TF049\Documents\clases cursos C#\RegresoPractica\RegresoPractica\obj\Debug\RegresoPractica.exe
+C:\Users\TF049\Documents\clases cursos C#\RegresoPractica\RegresoPractica\obj\Debug\RegresoPractica.pdb

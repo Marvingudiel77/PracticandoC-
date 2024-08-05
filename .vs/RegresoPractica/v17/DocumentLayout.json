@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TF049\\Documents\\clases cursos C#\\RegresoPractica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD9B255-5C9B-4138-B5F4-B877A6131D96}|RegresoPractica\\RegresoPractica.csproj|c:\\users\\tf049\\documents\\clases cursos c#\\regresopractica\\regresopractica\\relleno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD9B255-5C9B-4138-B5F4-B877A6131D96}|RegresoPractica\\RegresoPractica.csproj|solutionrelative:regresopractica\\relleno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD9B255-5C9B-4138-B5F4-B877A6131D96}|RegresoPractica\\RegresoPractica.csproj|C:\\Users\\TF049\\Documents\\clases cursos C#\\RegresoPractica\\regresopractica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD9B255-5C9B-4138-B5F4-B877A6131D96}|RegresoPractica\\RegresoPractica.csproj|solutionrelative:regresopractica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD9B255-5C9B-4138-B5F4-B877A6131D96}|RegresoPractica\\RegresoPractica.csproj|C:\\Users\\TF049\\Documents\\clases cursos C#\\RegresoPractica\\regresopractica\\postre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD9B255-5C9B-4138-B5F4-B877A6131D96}|RegresoPractica\\RegresoPractica.csproj|solutionrelative:regresopractica\\postre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD9B255-5C9B-4138-B5F4-B877A6131D96}|RegresoPractica\\RegresoPractica.csproj|c:\\users\\tf049\\documents\\clases cursos c#\\regresopractica\\regresopractica\\pastel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD9B255-5C9B-4138-B5F4-B877A6131D96}|RegresoPractica\\RegresoPractica.csproj|solutionrelative:regresopractica\\pastel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD9B255-5C9B-4138-B5F4-B877A6131D96}|RegresoPractica\\RegresoPractica.csproj|c:\\users\\tf049\\documents\\clases cursos c#\\regresopractica\\regresopractica\\ingrediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD9B255-5C9B-4138-B5F4-B877A6131D96}|RegresoPractica\\RegresoPractica.csproj|solutionrelative:regresopractica\\ingrediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD9B255-5C9B-4138-B5F4-B877A6131D96}|RegresoPractica\\RegresoPractica.csproj|C:\\Users\\TF049\\Documents\\clases cursos C#\\RegresoPractica\\regresopractica\\ejecutarmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD9B255-5C9B-4138-B5F4-B877A6131D96}|RegresoPractica\\RegresoPractica.csproj|solutionrelative:regresopractica\\ejecutarmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD9B255-5C9B-4138-B5F4-B877A6131D96}|RegresoPractica\\RegresoPractica.csproj|c:\\users\\tf049\\documents\\clases cursos c#\\regresopractica\\regresopractica\\crepa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD9B255-5C9B-4138-B5F4-B877A6131D96}|RegresoPractica\\RegresoPractica.csproj|solutionrelative:regresopractica\\crepa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD9B255-5C9B-4138-B5F4-B877A6131D96}|RegresoPractica\\RegresoPractica.csproj|c:\\users\\tf049\\documents\\clases cursos c#\\regresopractica\\regresopractica\\cobertura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD9B255-5C9B-4138-B5F4-B877A6131D96}|RegresoPractica\\RegresoPractica.csproj|solutionrelative:regresopractica\\cobertura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Relleno.cs",
+              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\clases cursos C#\\RegresoPractica\\RegresoPractica\\Relleno.cs",
+              "RelativeDocumentMoniker": "RegresoPractica\\Relleno.cs",
+              "ToolTip": "C:\\Users\\TF049\\Documents\\clases cursos C#\\RegresoPractica\\RegresoPractica\\Relleno.cs",
+              "RelativeToolTip": "RegresoPractica\\Relleno.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAcwCAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:56:30.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cobertura.cs",
+              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\clases cursos C#\\RegresoPractica\\RegresoPractica\\Cobertura.cs",
+              "RelativeDocumentMoniker": "RegresoPractica\\Cobertura.cs",
+              "ToolTip": "C:\\Users\\TF049\\Documents\\clases cursos C#\\RegresoPractica\\RegresoPractica\\Cobertura.cs",
+              "RelativeToolTip": "RegresoPractica\\Cobertura.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAADwvyUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:40:59.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ingrediente.cs",
+              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\clases cursos C#\\RegresoPractica\\RegresoPractica\\Ingrediente.cs",
+              "RelativeDocumentMoniker": "RegresoPractica\\Ingrediente.cs",
+              "ToolTip": "C:\\Users\\TF049\\Documents\\clases cursos C#\\RegresoPractica\\RegresoPractica\\Ingrediente.cs",
+              "RelativeToolTip": "RegresoPractica\\Ingrediente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:39:40.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pastel.cs",
+              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\clases cursos C#\\RegresoPractica\\RegresoPractica\\Pastel.cs",
+              "RelativeDocumentMoniker": "RegresoPractica\\Pastel.cs",
+              "ToolTip": "C:\\Users\\TF049\\Documents\\clases cursos C#\\RegresoPractica\\RegresoPractica\\Pastel.cs",
+              "RelativeToolTip": "RegresoPractica\\Pastel.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:22:49.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Crepa.cs",
+              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\clases cursos C#\\RegresoPractica\\RegresoPractica\\Crepa.cs",
+              "RelativeDocumentMoniker": "RegresoPractica\\Crepa.cs",
+              "ToolTip": "C:\\Users\\TF049\\Documents\\clases cursos C#\\RegresoPractica\\RegresoPractica\\Crepa.cs",
+              "RelativeToolTip": "RegresoPractica\\Crepa.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T19:56:59.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Postre.cs",
+              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\clases cursos C#\\RegresoPractica\\RegresoPractica\\Postre.cs",
+              "RelativeDocumentMoniker": "RegresoPractica\\Postre.cs",
+              "ToolTip": "C:\\Users\\TF049\\Documents\\clases cursos C#\\RegresoPractica\\RegresoPractica\\Postre.cs",
+              "RelativeToolTip": "RegresoPractica\\Postre.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T19:42:12.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EjecutarMain.cs",
+              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\clases cursos C#\\RegresoPractica\\RegresoPractica\\EjecutarMain.cs",
+              "RelativeDocumentMoniker": "RegresoPractica\\EjecutarMain.cs",
+              "ToolTip": "C:\\Users\\TF049\\Documents\\clases cursos C#\\RegresoPractica\\RegresoPractica\\EjecutarMain.cs",
+              "RelativeToolTip": "RegresoPractica\\EjecutarMain.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T19:40:46.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\clases cursos C#\\RegresoPractica\\RegresoPractica\\Program.cs",
+              "RelativeDocumentMoniker": "RegresoPractica\\Program.cs",
+              "ToolTip": "C:\\Users\\TF049\\Documents\\clases cursos C#\\RegresoPractica\\RegresoPractica\\Program.cs",
+              "RelativeToolTip": "RegresoPractica\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T19:26:02.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
